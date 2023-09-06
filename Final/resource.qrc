@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icono.ico</file>
+        <file>sk2.ico</file>
+        <file>sk2.jpeg</file>
+        <file>skull.jpeg</file>
+        <file>skull.ico</file>
+    </qresource>
+</RCC>
